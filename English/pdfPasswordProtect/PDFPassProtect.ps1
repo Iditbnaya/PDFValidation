@@ -17,10 +17,14 @@ Find me on:
 * LinkedIn:	https://www.linkedin.com/in/idit-bnaya/                    
 
 .requires
-1. Smtp server
-2. Itextsharp.dll - https://sourceforge.net/projects/itextsharp
+1. SMTP server
+2. Download Itextsharp.dll and place it in the pdfPasswordProtect
+ Download it from - https://github.com/itext/itextsharp
+ https://github.com/WolfeReiter/iTextSharp/blob/master/README
 3. Save the pdfPasswordProtect folder  under c:\temp or change the location in the code under $mtpath
 
+Note:
+Windows 7 works only with old versions of itextsharp.dll, I had to download some verions and test them on win7 and win10 before it worked.
 #>
  
 
