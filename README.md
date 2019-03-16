@@ -1,6 +1,6 @@
 # PDFValidation
 Encrypt PDF files and send them by Email.
-There are two folders one for windows 7 and one for windows 10 That's because of the dll compatibility
+There are two folders, one with an English based form and the other with an Hebrew based form.
 
 Extract the folders and save the "PDFpassprotect" folder in the location you choose, the default is c:\temp but you can change it inside the code. 
 
